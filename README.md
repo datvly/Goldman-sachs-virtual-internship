@@ -1,2 +1,1 @@
-# Goldman-sachs
-A virtual Goldman Sachs internship
+# Goldman-sachs-virtual-engineering-internship
